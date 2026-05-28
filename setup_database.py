@@ -54,7 +54,7 @@ cursor.executemany(
 cursor.execute("DROP TABLE IF EXISTS pollen")
 cursor.execute(
     """
-CREATE TABLE pollen (
+CREATE TABLE pollen_measurements (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     date TEXT,
     time TEXT,
@@ -133,7 +133,7 @@ with open("copenhagen_pollen_data_regex_v2.csv", mode="r", encoding="utf-8") as 
         cleaned_rows.append(clean_row(row))
 
 cursor.executemany(
-    "INSERT INTO pollen (date, time, location, pollen_type, concentration) VALUES (?, ?, ?, ?, ?)",
+    "INSERT INTO pollen_measurements (date, time, location, pollen_type, concentration) VALUES (?, ?, ?, ?, ?)",
     cleaned_rows,
 )
 
