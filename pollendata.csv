@@ -1,0 +1,1261 @@
+Date,Time,Location,Pollen_Type,Concentration
+26-05-2026,08:00,University Park,Grass,57
+26-05-2026,08:00 AM,UNIVERSITY PARK,Birch,11 ppm
+"May 26, 2026",08:00,University Park,Oak,40 grains/m3
+26-05-2026 ,08:00,University Park,Pine,28 grains/m3
+26/05/2026,14:00,University Park,Grass,109
+26-05-2026,14:00 PM,University Park,BIRCH,12
+26-05-2026,14:00 PM,UNIVERSITY PARK,oak,15
+26/05/2026,14:00,university park,Pine, 39 
+2026-05-26,20:00,University Park,Grass,55
+"May 26, 2026",20:00,University Park,Birch,1
+26-05-2026,20:00,University Park,OAK,47
+26/05/2026,20:00 PM,University Park,pine,21 ppm
+26/05/2026,08:00,Islands brygge,Grass,53
+"May 26, 2026",08:00 AM,Islands brygge,Birch,13
+"May 26, 2026",08:00,Islands brygge,Oak,43
+26-05-2026,08:00 AM,Islands brygge,PINE,17
+26-05-2026 ,14:00 PM,  Islands brygge ,Grass,57
+26-05-2026,14:00,Islands brygge,Birch,3 ppm
+26-05-2026,14:00,Islands brygge,Oak,34
+"May 26, 2026",14:00,Islands brygge,Pine,29
+26-05-2026 ,20:00 PM,Islands brygge,Grass,140
+26-05-2026,20:00 PM,Islands brygge,Birch,6
+26-05-2026,20:00,ISLANDS BRYGGE,Oak,47
+"May 26, 2026",20:00,Islands brygge,Pine,48
+"May 26, 2026",08:00,Nordhavn,Grass,33
+26-05-2026,08:00,nordhavn,Burch,15
+26-05-2026,08:00,Nordhavn,Oak,48
+26/05/2026,08:00,  Nordhavn ,Pine,18
+26-05-2026,14:00,Nordhavn,Grass,90
+26-05-2026,14:00,  Nordhavn ,Birch,1 grains/m3
+"May 26, 2026",14:00,nordhavn,Oak,29
+26/05/2026,14:00,Nordhavn,Pine,31
+26-05-2026,20:00 PM,nordhavn,Grass,65
+"May 26, 2026",20:00,Nordhavn,Birch,13
+2026-05-26,20:00 PM,Nordhavn,OAK,19
+26-05-2026,20.00,nordhavn,Pine,48 ppm
+26-05-2026,08:00,  Sydhavn ,Grass, 107 
+"May 26, 2026",08:00,sydhavn,BIRCH,9
+2026-05-26,08:00,Sydhavn,OAK,45 ppm
+26-05-2026,08:00,Sydhavn,Pine,34
+26-05-2026,14:00 PM,SYDHAVN,Grss,21
+26-05-2026,14:00,  Sydhavn ,Birch,6 ppm
+26-05-2026,14:00,Sydhavn,oak,49 grains/m3
+26/05/2026,14:00,Sydhavn,pine,19
+26/05/2026,20:00,Sydhavn,Grss,146
+26-05-2026,20:00,sydhavn,Birch,2
+26/05/2026,20:00,Sydhavn,Oak,13
+26-05-2026,20:00 PM,SYDHAVN,Pine, 43 
+26/05/2026,08.00,Ryparken,Grass,61
+26/05/2026,08.00,Ryparken,Birch,~4
+26-05-2026,08:00,Ryparken,OAK,33 grains/m3
+2026-05-26,08:00,Ryparken,Pine,48
+26-05-2026,14.00,Ryparken,Grass,~23
+26-05-2026,14:00,  Ryparken ,Birch,~5
+26-05-2026,14:00 PM,Ryparken,Oak,31
+26/05/2026,14:00,Ryparken,pine,28
+26-05-2026,20:00,Ryparken,Grass,117
+26-05-2026,20:00,  Ryparken ,Birch,6
+26-05-2026 ,20.00,Ryparken,Oak,19
+"May 26, 2026",20:00,Ryparken,PINE,~42
+27-05-2026,08:00 AM,University Park,Grass,105
+27-05-2026,08.00,University Park,BIRCH,15
+27-05-2026,08.00,university park,Oak,16
+27-05-2026,08:00,University Park,PINE,32
+27-05-2026,14:00 PM,  University Park ,Grass,141
+27/05/2026,14.00,UNIVERSITY PARK,Birch,4
+27-05-2026,14:00,University Park,Oak,38
+27-05-2026,14:00,University Park,PINE,21 grains/m3
+27-05-2026,20:00 PM,university park,Grass,53
+27/05/2026,20:00 PM,university park,Birch,12 ppm
+27-05-2026,20:00,University Park,Oak,23 ppm
+"May 27, 2026",20:00 PM,UNIVERSITY PARK,pine,17 grains/m3
+27/05/2026,08:00,Islands brygge,grass,38
+27-05-2026,08:00,Islands brygge,Birch,6 grains/m3
+27-05-2026,08.00,  Islands brygge ,oak,14
+27-05-2026,08:00,ISLANDS BRYGGE,pine,18
+"May 27, 2026",14:00,  Islands brygge ,Grass,101
+27/05/2026,14:00,ISLANDS BRYGGE,Birch,9
+"May 27, 2026",14:00 PM,Islands brygge,Oak,12
+27-05-2026,14:00,Island brygge,Pine,10
+27-05-2026 ,20:00 PM,Islands brygge,grass,70
+27-05-2026,20:00,  Islands brygge ,Birch,1 grains/m3
+27-05-2026 ,20:00,Island brygge,Oak,14
+27/05/2026,20:00 PM,Islands brygge,Pine,29 ppm
+2026-05-27,08:00 AM,Nordhavn,Grass,~75
+27-05-2026,08:00,Nordhavn,Birch,3
+27-05-2026,08:00,nordhavn,Oak,26 ppm
+27/05/2026,08:00,Nordhavn,Pine,40
+27/05/2026,14:00,NORDHAVN,grass,85
+27/05/2026,14:00,Nordhavn,Birch,13
+27-05-2026,14:00 PM,  Nordhavn ,Oak,17 ppm
+27/05/2026,14:00,Nordhavn,Pine,33
+27-05-2026,20:00,Nordhavn,Grass,96
+27/05/2026,20.00,Nordhavn,Birch,2
+27-05-2026 ,20.00,Nordhavn,Oak,24
+"May 27, 2026",20:00 PM,nordhavn,Pine,25
+27-05-2026,08:00,Sydhavn,Grass, 103 
+27/05/2026,08:00,Sydhavn,birch,8 grains/m3
+27-05-2026,08:00,Sydhavn,Oak,33
+2026-05-27,08:00,Sydhavn,PINE,31 ppm
+27-05-2026,14.00,Sydhavn,Grass,118
+27-05-2026,14:00,Sydhavn,Burch,4
+27-05-2026,14:00,  Sydhavn ,Oak,19
+27-05-2026,14:00 PM,Sydhavn,Pine,26 ppm
+27-05-2026,20:00,Sydhavn,grass,47
+27-05-2026,20:00,SYDHAVN,Birch,6 grains/m3
+27-05-2026,20.00,sydhavn,Oak,15
+"May 27, 2026",20:00,Sydhavn,Pine, 45 
+27-05-2026,08:00 AM,Ryparken,GRASS,136
+27-05-2026 ,08:00,Ryparken,Birch,15
+27-05-2026,08:00 AM,Ryparken,Oak,50
+27/05/2026,08:00,Ryparken,Pine,22 grains/m3
+27-05-2026,14.00,Ryparken,GRASS,107
+27-05-2026,14:00,Ryparken,Birch,0 ppm
+27-05-2026,14:00,Ryparken,Oak,31
+27-05-2026,14:00 PM,  Ryparken ,Pine,45
+27/05/2026,20.00,Ryparken,GRASS,125
+"May 27, 2026",20:00,Ryparken,Birch,~9
+27/05/2026,20:00,ryparken,Oak,28
+27-05-2026,20:00,Ryparken,Pine,17
+28/05/2026,08:00,University Park,GRASS, 50 
+28-05-2026,08:00 AM,Univ. Park,BIRCH,14
+28/05/2026,08:00,University Park,Oak,36
+28/05/2026,08:00 AM,University Park,Pine, 31 
+28-05-2026,14:00 PM,  University Park ,Grss,~71
+28-05-2026 ,14:00,UNIVERSITY PARK,Birch,13
+28-05-2026,14:00,University Park,Oak,20
+28-05-2026,14:00,University Park,pine,45
+"May 28, 2026",20:00,University Park,Grass,56
+28-05-2026,20:00,Univ. Park,Birch,10 grains/m3
+28-05-2026,20.00,University Park,Oak,40
+"May 28, 2026",20:00,University Park,Pine,37
+28-05-2026,08:00,Islands brygge,Grass,85
+28-05-2026,08:00 AM,islands brygge,birch,8 grains/m3
+"May 28, 2026",08:00,ISLANDS BRYGGE,Oak,29
+28-05-2026,08:00,Islands brygge,PINE,18
+28-05-2026,14:00,Islands brygge,Grass,65
+28-05-2026,14:00,Islands brygge,Birch,14
+28-05-2026,14.00,Islands brygge,Oak,23
+2026-05-28,14:00,islands brygge,Pine,24
+28-05-2026,20:00,Island brygge,Grass,127
+28/05/2026,20:00 PM,Islands brygge,Birch,3
+"May 28, 2026",20.00,Islands brygge,Oak,14 grains/m3
+28-05-2026,20:00,ISLANDS BRYGGE,Pine,23
+28-05-2026,08:00,Nordhavn,grass, 87 
+28-05-2026,08.00,NORDHAVN,birch,0
+28-05-2026,08:00,Nordhavn,Oak,22 grains/m3
+28-05-2026,08:00 AM,Nordhavn,Pine,28
+28-05-2026,14.00,Nordhavn,Grass,82
+28-05-2026,14:00 PM,Nordhavn,birch,~14
+"May 28, 2026",14:00,Nordhavn,Oak,11 ppm
+28-05-2026,14:00 PM,Nordhavn,Pine,49 grains/m3
+28-05-2026,20:00 PM,Nordhavn,Grass,52
+28/05/2026,20:00 PM,NORDHAVN,Birch,15
+28-05-2026,20:00,  Nordhavn ,Oak,46
+2026-05-28,20:00,NORDHAVN,Pine,26
+2026-05-28,08:00,Sydhavn,Grass,33
+28/05/2026,08:00,Sydhavn,Birch,15
+28/05/2026,08:00,Sydhavn,Oak,43
+28/05/2026,08:00,Sydhavn,Pine,11 ppm
+28-05-2026 ,14:00,Sydhavn,GRASS,28
+28-05-2026,14:00,Sydhavn,BIRCH,15
+28-05-2026,14:00 PM,  Sydhavn ,Oak,35
+28-05-2026,14:00,Sydhavn,Pine,26 grains/m3
+28/05/2026,20:00,Sydhavn,Grass,80
+28-05-2026,20:00,Sydhavn,Birch,~7
+28-05-2026 ,20:00 PM,sydhavn,Oak,33
+28/05/2026,20:00,Sydhavn,Pine,36 grains/m3
+28-05-2026,08:00,Ryparken,GRASS,59
+28-05-2026,08.00,Ryparken,Birch,5
+"May 28, 2026",08:00 AM,RYPARKEN,Oak,17 ppm
+28/05/2026,08:00,Ryparken,Pine,39
+28-05-2026,14:00 PM,ryparken,Grass,113 grains/m3
+28-05-2026,14:00 PM,Ryparken,Burch,2 grains/m3
+2026-05-28,14:00,Ryparken,Oak,13
+28-05-2026,14:00,Ryparken,Pine,43
+"May 28, 2026",20:00,Ryparken,Grass,91
+2026-05-28,20:00 PM,Ryparken,Birch,3
+"May 28, 2026",20:00,Ryparken,Oak,15
+28-05-2026,20:00 PM,Ryparken,pine,17
+29/05/2026,08:00,  University Park ,GRASS,58
+29-05-2026,08:00,  University Park ,Birch,13
+29/05/2026,08:00 AM,  University Park ,Oak, 19 
+29-05-2026,08:00,  University Park ,Pine,42
+"May 29, 2026",14:00,University Park,grass,65 ppm
+29-05-2026,14:00,University Park,Birch,8 grains/m3
+29-05-2026,14:00,University Park,Oak,31
+2026-05-29,14:00,university park,PINE,42
+"May 29, 2026",20:00,University Park,Grass,73 ppm
+29-05-2026,20:00,University Park,Birch,5
+29-05-2026 ,20:00,University Park,Oak,30
+"May 29, 2026",20:00,Univ. Park,Pine,13
+"May 29, 2026",08.00,Islands brygge,Grass,25
+"May 29, 2026",08:00 AM,islands brygge,Birch, 10 
+29-05-2026,08:00,Islands brygge,Oak,44
+"May 29, 2026",08:00,Islands brygge,Pine,14
+29-05-2026,14.00,Islands brygge,grass,20
+29-05-2026,14:00,Islands brygge,BIRCH,15 grains/m3
+"May 29, 2026",14:00,Islands brygge,Oak, 25 
+29-05-2026,14:00 PM,ISLANDS BRYGGE,Pine,35
+29-05-2026 ,20:00,Islands brygge,Grass,43
+2026-05-29,20:00,  Islands brygge ,Birch,8
+29-05-2026,20:00,islands brygge,Oak,44
+29-05-2026 ,20:00,Islands brygge,PINE,28
+29-05-2026,08:00,Nordhavn,Grass,49
+29-05-2026,08.00,Nordhavn,Burch,13
+2026-05-29,08:00,nordhavn,Oak,13
+29-05-2026,08:00,Nordhavn,Pine,33
+29-05-2026,14:00,Nordhavn,Grass,23
+29-05-2026,14:00,  Nordhavn ,BIRCH,2
+"May 29, 2026",14:00,Nordhavn,Oak,11
+29/05/2026,14:00,Nordhavn,Pine,~46
+29-05-2026,20:00,  Nordhavn ,Grass, 132 
+29-05-2026,20:00,Nordhavn,Birch,15 grains/m3
+29/05/2026,20:00,Nordhavn,Oak,21
+"May 29, 2026",20:00,Nordhavn,Pine,10 ppm
+29-05-2026,08:00,SYDHAVN,Grass,96
+"May 29, 2026",08.00,Sydhavn,BIRCH,11
+29-05-2026,08:00,SYDHAVN,Oak,11
+2026-05-29,08:00,Sydhavn,Pine,37
+29-05-2026,14:00,Sydhavn,Grass,46
+29-05-2026,14:00,Sydhavn,Birch,3
+2026-05-29,14:00 PM,sydhavn,Oak,22
+"May 29, 2026",14:00,Sydhavn,Pine, 29 
+29-05-2026,20:00,Sydhavn,Grass,139
+29-05-2026,20:00 PM,SYDHAVN,Birch,1
+29/05/2026,20:00,sydhavn,Oak,~19
+"May 29, 2026",20:00,Sydhavn,Pine,30
+29-05-2026,08:00,Ryparken,Grass,86
+29/05/2026,08:00,Ryparken,Birch,3 ppm
+29-05-2026,08:00,Ryparken,oak,47
+2026-05-29,08:00 AM,Ryparken,PINE,22
+29-05-2026,14.00,Ryparken,Grass, 60 
+29-05-2026,14:00,Ryparken,Birch,13
+29-05-2026,14.00,Ryparken,Oak,44 ppm
+29-05-2026,14:00,Ryparken,Pine,29
+29-05-2026,20:00,Ryparken,Grass,52
+"May 29, 2026",20:00,Ryparken,Birch,12 ppm
+29-05-2026,20.00,RYPARKEN,Oak,27
+29-05-2026,20:00,Ryparken,PINE,38
+30-05-2026,08:00 AM,  University Park ,Grass,95
+30-05-2026,08:00 AM,University Park,Birch,15
+30/05/2026,08.00,University Park,oak,11
+30-05-2026,08:00,University Park,Pine,14
+30/05/2026,14:00,University Park,Grass,73
+30-05-2026,14:00,Univ. Park,Birch,6 grains/m3
+30-05-2026,14:00,University Park,Oak,27
+"May 30, 2026",14:00,Univ. Park,Pine,10
+2026-05-30,20.00,  University Park ,grass,94 ppm
+2026-05-30,20:00 PM,Univ. Park,Birch,8
+30-05-2026,20:00,University Park,Oak,35
+30-05-2026,20:00,University Park,Pine,17
+30/05/2026,08:00 AM,islands brygge,Grass, 51 
+2026-05-30,08.00,Islands brygge,Birch,5 grains/m3
+2026-05-30,08:00 AM,Islands brygge,Oak,34 ppm
+30-05-2026,08:00,  Islands brygge ,pine,26
+30/05/2026,14:00 PM,  Islands brygge ,Grass,75
+30-05-2026,14:00,  Islands brygge ,Birch,10
+30/05/2026,14:00,Island brygge,OAK,34
+30-05-2026,14:00 PM,Islands brygge,pine, 11 
+30/05/2026,20:00,  Islands brygge ,Grass,92
+30/05/2026,20:00,ISLANDS BRYGGE,Birch,10
+30-05-2026 ,20:00,Islands brygge,Oak,30
+"May 30, 2026",20:00,Islands brygge,Pine,41
+"May 30, 2026",08:00,Nordhavn,Grass,107 grains/m3
+30/05/2026,08:00,NORDHAVN,Birch,5
+30-05-2026,08:00,Nordhavn,Oak,15
+30/05/2026,08:00,Nordhavn,Pine,15
+"May 30, 2026",14:00,Nordhavn,Grass,~142
+"May 30, 2026",14:00,Nordhavn,Birch,4
+"May 30, 2026",14:00 PM,Nordhavn,oak,30
+30-05-2026,14:00,Nordhavn,pine,10
+30-05-2026,20:00,  Nordhavn ,Grass,~43
+30/05/2026,20:00,Nordhavn,Birch,0
+30-05-2026,20:00,  Nordhavn ,OAK,29 grains/m3
+30-05-2026,20:00,Nordhavn,Pine,22
+30-05-2026,08:00 AM,  Sydhavn ,Grass,133 grains/m3
+"May 30, 2026",08:00,  Sydhavn ,Birch,14
+30/05/2026,08:00,Sydhavn,Oak, 48 
+30-05-2026 ,08:00,Sydhavn,PINE,41 grains/m3
+2026-05-30,14:00 PM,Sydhavn,grass,47
+30-05-2026,14:00,sydhavn,birch,3 ppm
+30-05-2026,14:00 PM,Sydhavn,Oak,~14
+30-05-2026,14:00,  Sydhavn ,pine,14
+2026-05-30,20:00,Sydhavn,Grass,150
+2026-05-30,20:00,SYDHAVN,Birch,15
+30/05/2026,20:00,Sydhavn,Oak,42
+30-05-2026,20:00,Sydhavn,Pine,25
+30/05/2026,08:00,Ryparken,Grass,111
+30-05-2026,08:00 AM,  Ryparken ,Birch,~4
+30-05-2026,08:00,Ryparken,Oak,31 ppm
+30/05/2026,08:00,Ryparken,PINE,35
+30-05-2026,14:00,  Ryparken ,Grass,111
+"May 30, 2026",14:00,Ryparken,birch,14
+2026-05-30,14:00,  Ryparken ,Oak,47
+30-05-2026,14:00,Ryparken,Pine,12
+30-05-2026,20:00,RYPARKEN,Grass,79 ppm
+"May 30, 2026",20:00 PM,Ryparken,BIRCH,4
+30-05-2026,20:00,Ryparken,Oak,38
+30-05-2026,20:00,ryparken,pine,43 ppm
+31-05-2026,08:00,University Park,grass,110
+31-05-2026,08:00,university park,BIRCH,3
+31-05-2026,08:00,University Park,Oak, 48 
+31-05-2026,08.00,University Park,Pine,~45
+"May 31, 2026",14:00,University Park,Grass,150
+2026-05-31,14.00,  University Park ,Birch,10 grains/m3
+31-05-2026,14:00,University Park,Oak,15
+31-05-2026,14.00,University Park,Pine,25
+31-05-2026,20.00,University Park,Grass,48
+31-05-2026,20:00,  University Park ,Birch,~7
+31-05-2026,20:00,University Park,Oak,38 ppm
+31-05-2026,20:00,University Park,Pine,18 ppm
+31-05-2026,08:00,Islands brygge,Grass,123
+31-05-2026,08:00,Islands brygge,Birch,6 grains/m3
+31-05-2026,08:00,islands brygge,OAK,26
+31-05-2026,08:00 AM,Islands brygge,pine,27
+31-05-2026,14:00 PM,ISLANDS BRYGGE,Grass,114 ppm
+31-05-2026,14:00 PM,Islands brygge,BIRCH,8
+31-05-2026,14:00,Islands brygge,Oak,49 grains/m3
+31/05/2026,14:00,Islands brygge,Pine,31
+31-05-2026,20:00,Island brygge,GRASS,133
+"May 31, 2026",20:00 PM,  Islands brygge ,Burch,3
+31/05/2026,20:00,Islands brygge,Oak,37
+31-05-2026,20:00,Islands brygge,pine,45 grains/m3
+31-05-2026,08:00 AM,NORDHAVN,Grass, 126 
+31/05/2026,08.00,NORDHAVN,Birch,0
+31-05-2026,08:00,Nordhavn,Oak,49
+31-05-2026,08:00,NORDHAVN,Pine,26 ppm
+31/05/2026,14:00,Nordhavn,Grass,82
+2026-05-31,14:00,Nordhavn,BIRCH,2
+31/05/2026,14:00,NORDHAVN,Oak,47
+31-05-2026,14:00,nordhavn,Pine, 29 
+"May 31, 2026",20:00,Nordhavn,Grass,104
+"May 31, 2026",20:00 PM,Nordhavn,Birch,6
+31-05-2026,20:00,NORDHAVN,oak,46
+31-05-2026,20.00,Nordhavn,Pine,34 ppm
+31-05-2026,08:00,sydhavn,Grass,144 ppm
+31-05-2026,08:00,Sydhavn,Birch,11
+"May 31, 2026",08:00,Sydhavn,Oak,25 ppm
+31-05-2026,08:00,Sydhavn,Pine,33 grains/m3
+31-05-2026,14:00,Sydhavn,Grass,34 grains/m3
+31-05-2026 ,14.00,sydhavn,Birch,15
+31/05/2026,14:00,  Sydhavn ,Oak, 36 
+31-05-2026,14:00,Sydhavn,Pine,33
+31-05-2026 ,20:00 PM,Sydhavn,Grass,~142
+31/05/2026,20:00,Sydhavn,Birch,5
+31-05-2026,20:00,Sydhavn,Oak,44
+31/05/2026,20:00,Sydhavn,Pine,26
+31-05-2026,08:00,ryparken,Grass,119 ppm
+31-05-2026,08:00 AM,Ryparken,Birch,8
+31/05/2026,08:00,Ryparken,Oak,~41
+31/05/2026,08:00,Ryparken,Pine,41
+31-05-2026,14.00,RYPARKEN,Grass,58 grains/m3
+31/05/2026,14:00,  Ryparken ,Birch,1
+31/05/2026,14:00,Ryparken,Oak,12
+31-05-2026,14:00,ryparken,PINE, 23 
+31-05-2026,20:00,ryparken,Grass,83
+"May 31, 2026",20:00 PM,Ryparken,Birch,6
+31-05-2026,20.00,Ryparken,Oak,18
+31-05-2026,20:00,Ryparken,Pine,25 grains/m3
+01-06-2026,08:00,University Park,Grass,40
+2026-06-01,08:00 AM,University Park,Birch,5 grains/m3
+2026-06-01,08:00,University Park,Oak, 25 
+01-06-2026,08:00,University Park,Pine,42 grains/m3
+01/06/2026,14.00,University Park,Grass,84
+01-06-2026,14:00,university park,Birch,5
+01-06-2026,14:00 PM,University Park,Oak,27
+01-06-2026,14:00,University Park,pine,18
+01-06-2026,20:00,University Park,Grass,43
+"Jun 01, 2026",20:00 PM,UNIVERSITY PARK,Birch, 14 
+01/06/2026,20:00,University Park,Oak,29
+01-06-2026,20:00,University Park,Pine,22
+01-06-2026,08:00 AM,Islands brygge,Grass,52
+01-06-2026,08:00,Islands brygge,Birch,1 ppm
+01-06-2026,08:00,  Islands brygge ,oak,18
+01-06-2026,08:00,islands brygge,Pine,42
+2026-06-01,14:00,Islands brygge,grass,86 grains/m3
+01-06-2026,14:00 PM,Islands brygge,Birch,2
+01-06-2026 ,14:00,ISLANDS BRYGGE,Oak,22
+"Jun 01, 2026",14.00,Island brygge,PINE,34
+01-06-2026,20:00 PM,Islands brygge,Grass,123
+01/06/2026,20:00,Islands brygge,Birch,15
+2026-06-01,20:00,ISLANDS BRYGGE,Oak,20
+01-06-2026,20:00,Islands brygge,Pine,27
+01-06-2026,08:00,Nordhavn,Grss,106 grains/m3
+01/06/2026,08:00,Nordhavn,Birch,~5
+01-06-2026,08:00 AM,  Nordhavn ,oak,21
+01-06-2026,08:00,Nordhavn,Pine,18 grains/m3
+2026-06-01,14:00,NORDHAVN,GRASS,34
+01-06-2026,14:00,NORDHAVN,Birch,~13
+"Jun 01, 2026",14:00,Nordhavn,Oak,30 ppm
+01/06/2026,14:00 PM,Nordhavn,Pine,34
+"Jun 01, 2026",20:00,nordhavn,Grass,~72
+01-06-2026,20:00,  Nordhavn ,Burch,13
+01-06-2026,20:00,Nordhavn,OAK,~14
+01-06-2026,20:00,nordhavn,Pine, 33 
+01/06/2026,08:00,Sydhavn,Grass,99
+01-06-2026,08:00,Sydhavn,Birch,3
+01-06-2026,08.00,Sydhavn,Oak,27
+01-06-2026,08:00,Sydhavn,Pine,43
+2026-06-01,14:00,Sydhavn,Grass,101 grains/m3
+01-06-2026,14:00,Sydhavn,Birch,15
+01-06-2026,14:00 PM,Sydhavn,oak,35
+01-06-2026,14:00,SYDHAVN,Pine,10
+01-06-2026,20:00,Sydhavn,Grass,71
+"Jun 01, 2026",20:00 PM,Sydhavn,Birch,8
+01-06-2026,20:00,Sydhavn,Oak,37
+01/06/2026,20:00,  Sydhavn ,Pine,33
+01-06-2026,08:00,Ryparken,GRASS,59 ppm
+2026-06-01,08:00,Ryparken,Birch,9 ppm
+01-06-2026,08:00,Ryparken,Oak,42
+"Jun 01, 2026",08:00,Ryparken,Pine,46
+01-06-2026,14:00 PM,Ryparken,Grass,31 ppm
+01-06-2026,14.00,ryparken,Birch,12
+01-06-2026,14:00,Ryparken,OAK,~23
+"Jun 01, 2026",14:00,ryparken,Pine,50
+"Jun 01, 2026",20:00,  Ryparken ,grass,67
+01-06-2026,20:00,ryparken,Birch,0
+01-06-2026,20:00 PM,Ryparken,Oak,41
+01/06/2026,20:00,RYPARKEN,Pine,35
+02-06-2026,08:00,University Park,GRASS,143
+"Jun 02, 2026",08:00,University Park,Birch,~4
+02-06-2026,08:00,University Park,OAK,48
+02-06-2026,08:00,University Park,Pine,~20
+02/06/2026,14:00,University Park,Grass,59 ppm
+2026-06-02,14:00,University Park,Birch,15
+2026-06-02,14:00,University Park,Oak, 21 
+02-06-2026,14:00,UNIVERSITY PARK,Pine,48
+02-06-2026,20:00,University Park,Grass,63
+02-06-2026,20:00,UNIVERSITY PARK,Birch,5
+"Jun 02, 2026",20:00,university park,OAK,16
+02/06/2026,20:00,UNIVERSITY PARK,Pine,~15
+02-06-2026,08:00,Island brygge,GRASS,111
+02-06-2026,08:00,Islands brygge,Birch,6
+2026-06-02,08:00,Islands brygge,Oak,18
+02-06-2026,08:00,Islands brygge,PINE,36
+02-06-2026,14:00,islands brygge,Grss,107
+02-06-2026,14:00,  Islands brygge ,Birch,2
+02/06/2026,14:00,Islands brygge,Oak,25 grains/m3
+02-06-2026,14:00,Island brygge,Pine,25
+02/06/2026,20:00,Islands brygge,Grass,46 grains/m3
+02-06-2026,20:00 PM,ISLANDS BRYGGE,Birch,12
+02/06/2026,20:00,islands brygge,Oak,40
+02-06-2026 ,20:00,Islands brygge,Pine,10 grains/m3
+02-06-2026,08:00,Nordhavn,Grass,93
+02-06-2026,08:00,Nordhavn,Burch,9
+02-06-2026,08.00,NORDHAVN,Oak,37
+02/06/2026,08:00,NORDHAVN,Pine,31
+02-06-2026,14:00 PM,Nordhavn,Grass,113 grains/m3
+02-06-2026,14:00,nordhavn,Birch,10 ppm
+02-06-2026,14.00,Nordhavn,Oak,40 ppm
+02-06-2026 ,14:00,Nordhavn,PINE, 45 
+2026-06-02,20.00,Nordhavn,Grass,79
+02/06/2026,20:00 PM,Nordhavn,Birch,11
+02/06/2026,20:00,NORDHAVN,Oak,~14
+"Jun 02, 2026",20:00,Nordhavn,Pine,48
+02-06-2026,08:00,Sydhavn,Grass,85
+02-06-2026,08:00,Sydhavn,Birch,~6
+2026-06-02,08:00,Sydhavn,Oak,33
+"Jun 02, 2026",08:00,sydhavn,Pine,38
+2026-06-02,14:00,Sydhavn,Grass,111 grains/m3
+02/06/2026,14:00,Sydhavn,birch,11
+02-06-2026,14:00,sydhavn,oak,48
+02-06-2026 ,14:00,sydhavn,Pine,35
+02-06-2026,20:00,sydhavn,Grass,124 grains/m3
+02-06-2026,20:00,SYDHAVN,Burch,6
+"Jun 02, 2026",20:00,Sydhavn,Oak,42
+2026-06-02,20:00 PM,sydhavn,Pine,17
+02-06-2026,08:00,Ryparken,Grass,~46
+02/06/2026,08:00 AM,Ryparken,Birch,2
+02/06/2026,08:00,Ryparken,Oak,36
+"Jun 02, 2026",08:00,Ryparken,Pine,12
+2026-06-02,14:00,RYPARKEN,Grass,39
+02-06-2026,14.00,Ryparken,Birch,11
+02-06-2026,14:00 PM,Ryparken,Oak,42
+"Jun 02, 2026",14:00,Ryparken,Pine,33 grains/m3
+"Jun 02, 2026",20:00,ryparken,Grass,125
+2026-06-02,20:00 PM,Ryparken,Birch,7 ppm
+02-06-2026,20:00,Ryparken,Oak,25
+02-06-2026,20:00,Ryparken,pine,17 grains/m3
+03-06-2026,08:00,  University Park ,Grass,~44
+03-06-2026,08:00,university park,Birch,5
+"Jun 03, 2026",08:00,University Park,oak,26 ppm
+03-06-2026,08:00 AM,UNIVERSITY PARK,Pine,49
+03-06-2026,14:00,UNIVERSITY PARK,Grass,~85
+03-06-2026,14.00,University Park,Birch,9 grains/m3
+"Jun 03, 2026",14:00,  University Park ,OAK,27
+03-06-2026,14:00,University Park,Pine,11 grains/m3
+03-06-2026,20:00,university park,Grss,120
+03-06-2026,20:00,  University Park ,Birch,3
+03-06-2026,20:00,University Park,Oak,44
+03-06-2026 ,20:00,Univ. Park,Pine,21
+03-06-2026,08:00,islands brygge,Grass,53
+03/06/2026,08:00,Islands brygge,Birch,12
+03-06-2026,08:00,Islands brygge,Oak,22 ppm
+03-06-2026 ,08:00,ISLANDS BRYGGE,Pine,27 ppm
+"Jun 03, 2026",14:00,Islands brygge,Grss,~36
+03/06/2026,14:00,ISLANDS BRYGGE,Birch,9
+03-06-2026,14:00 PM,  Islands brygge ,Oak,20
+"Jun 03, 2026",14:00,  Islands brygge ,Pine,48
+03-06-2026,20:00,Islands brygge,grass, 116 
+"Jun 03, 2026",20:00,Islands brygge,Birch,8
+"Jun 03, 2026",20:00,Islands brygge,Oak,26
+2026-06-03,20:00,Islands brygge,Pine,40
+03/06/2026,08:00,Nordhavn,Grass,139
+03/06/2026,08:00 AM,Nordhavn,Birch,15
+03-06-2026,08:00,Nordhavn,Oak,43
+03-06-2026,08:00,Nordhavn,Pine,42 ppm
+03-06-2026,14:00,Nordhavn,Grss,29
+03-06-2026,14:00,Nordhavn,Burch,0
+03-06-2026,14:00,NORDHAVN,Oak,37 grains/m3
+2026-06-03,14.00,Nordhavn,Pine,25
+"Jun 03, 2026",20:00,Nordhavn,grass, 77 
+03-06-2026,20:00,Nordhavn,Birch,15
+03-06-2026,20:00 PM,Nordhavn,Oak,30
+03-06-2026,20:00,nordhavn,Pine,19
+03-06-2026,08:00,Sydhavn,Grass,143
+"Jun 03, 2026",08:00,sydhavn,birch,3
+03-06-2026,08.00,  Sydhavn ,Oak,49
+2026-06-03,08:00,Sydhavn,Pine,34
+"Jun 03, 2026",14:00,Sydhavn,Grass,139
+"Jun 03, 2026",14.00,SYDHAVN,Birch,3
+03/06/2026,14:00,Sydhavn,OAK, 47 
+2026-06-03,14.00,Sydhavn,Pine,20
+2026-06-03,20:00,Sydhavn,Grass,114
+"Jun 03, 2026",20:00 PM,Sydhavn,Birch,6
+03-06-2026,20:00,Sydhavn,Oak,21
+03-06-2026,20:00 PM,Sydhavn,Pine,27
+03/06/2026,08:00,ryparken,Grass,123
+03-06-2026,08:00,Ryparken,Birch,0
+"Jun 03, 2026",08:00,Ryparken,Oak, 28 
+03-06-2026,08:00,ryparken,Pine,32
+"Jun 03, 2026",14.00,Ryparken,Grass,89
+03/06/2026,14.00,ryparken,Birch,4
+03-06-2026,14:00,Ryparken,Oak,41
+"Jun 03, 2026",14:00,Ryparken,Pine,36
+"Jun 03, 2026",20:00,Ryparken,Grass,96
+"Jun 03, 2026",20:00,Ryparken,Birch,10
+"Jun 03, 2026",20:00 PM,Ryparken,Oak,20
+03-06-2026,20:00 PM,Ryparken,Pine,36
+04-06-2026,08.00,  University Park ,Grass,144
+2026-06-04,08:00,UNIVERSITY PARK,Birch,0
+04/06/2026,08:00,University Park,Oak,12
+04-06-2026,08:00,university park,Pine,50
+04-06-2026,14:00,University Park,Grass,63 ppm
+04-06-2026 ,14:00,  University Park ,birch,11
+"Jun 04, 2026",14:00 PM,University Park,Oak,22
+04-06-2026,14:00,University Park,Pine,35
+2026-06-04,20:00,University Park,Grass,94
+04-06-2026,20:00,University Park,birch,11
+04-06-2026,20:00 PM,University Park,Oak,13
+2026-06-04,20:00 PM,Univ. Park,pine,49
+2026-06-04,08:00,Islands brygge,Grass,142
+04-06-2026,08:00,Islands brygge,Birch,13 ppm
+04-06-2026 ,08:00 AM,Islands brygge,Oak,33 ppm
+04-06-2026,08:00 AM,Islands brygge,Pine,50
+04-06-2026,14:00,islands brygge,Grass,22
+04-06-2026,14:00,Islands brygge,Birch,13 grains/m3
+04-06-2026,14.00,Islands brygge,Oak,29
+"Jun 04, 2026",14:00,islands brygge,Pine,22
+2026-06-04,20:00,Islands brygge,Grass,114
+"Jun 04, 2026",20:00 PM,Islands brygge,Birch,11
+04-06-2026,20:00,Islands brygge,Oak,44
+04-06-2026,20:00,Island brygge,Pine,40
+04-06-2026,08:00 AM,Nordhavn,Grass,56
+04-06-2026,08:00 AM,Nordhavn,Birch,3
+04-06-2026,08:00,nordhavn,Oak,21 ppm
+04-06-2026,08:00,NORDHAVN,Pine, 40 
+04/06/2026,14:00,Nordhavn,Grass,92
+04-06-2026,14:00,  Nordhavn ,BIRCH,~5
+04/06/2026,14:00,  Nordhavn ,Oak,37 ppm
+"Jun 04, 2026",14:00 PM,Nordhavn,Pine,10
+04/06/2026,20:00 PM,Nordhavn,GRASS,42
+04-06-2026,20:00,Nordhavn,Birch,6
+04-06-2026,20:00,Nordhavn,Oak,~33
+04-06-2026,20:00,Nordhavn,Pine,50
+04-06-2026,08:00,Sydhavn,Grass,131
+"Jun 04, 2026",08:00 AM,Sydhavn,Birch,10
+04-06-2026,08:00,Sydhavn,Oak,48
+04/06/2026,08.00,SYDHAVN,Pine, 12 
+04-06-2026 ,14:00,Sydhavn,Grass,77
+04/06/2026,14:00 PM,Sydhavn,birch,13
+"Jun 04, 2026",14:00,SYDHAVN,Oak,18
+04-06-2026,14:00,SYDHAVN,Pine,~15
+"Jun 04, 2026",20:00,Sydhavn,Grass,98
+"Jun 04, 2026",20:00,Sydhavn,Birch,0
+04-06-2026 ,20:00 PM,Sydhavn,Oak, 14 
+04-06-2026,20:00,Sydhavn,Pine,42
+04-06-2026,08:00,Ryparken,Grss, 50 
+04-06-2026 ,08.00,Ryparken,Birch,7
+2026-06-04,08:00,  Ryparken ,Oak,46
+04/06/2026,08:00,Ryparken,Pine,13
+04-06-2026,14:00,Ryparken,Grass,48 ppm
+04-06-2026,14:00,Ryparken,Birch,9 ppm
+2026-06-04,14:00 PM,Ryparken,Oak, 22 
+04-06-2026,14:00,Ryparken,Pine,22
+04-06-2026,20:00,Ryparken,Grass,109
+04-06-2026,20:00,Ryparken,Birch,~9
+04-06-2026,20.00,RYPARKEN,oak,25 ppm
+"Jun 04, 2026",20:00 PM,Ryparken,PINE,45
+"Jun 05, 2026",08:00,University Park,Grass,104
+05-06-2026,08:00,UNIVERSITY PARK,birch,4
+05-06-2026,08:00,University Park,Oak,38 grains/m3
+05-06-2026,08:00,University Park,pine,28
+05-06-2026 ,14:00 PM,University Park,GRASS,110
+05-06-2026 ,14:00,university park,Birch,13
+05/06/2026,14:00,  University Park ,Oak,44
+05/06/2026,14:00,University Park,Pine,30
+05-06-2026,20:00 PM,University Park,grass,107
+05/06/2026,20:00 PM,University Park,Birch,6
+05-06-2026,20:00,University Park,Oak,11
+05-06-2026,20:00 PM,University Park,Pine,50
+05-06-2026,08:00,Islands brygge,Grass,142 ppm
+05-06-2026,08:00,Islands brygge,Birch,3
+05-06-2026 ,08:00 AM,islands brygge,Oak,47
+05-06-2026,08:00,Island brygge,Pine,46
+2026-06-05,14:00,Islands brygge,GRASS,93 ppm
+05-06-2026,14:00,Islands brygge,BIRCH,3
+05-06-2026,14:00,Islands brygge,oak,27
+05-06-2026,14:00 PM,Islands brygge,pine,30
+05-06-2026,20:00,Islands brygge,Grass,41 ppm
+05-06-2026,20:00,Islands brygge,Birch,2 grains/m3
+05/06/2026,20:00,ISLANDS BRYGGE,Oak,21
+05/06/2026,20:00,ISLANDS BRYGGE,Pine,10
+05-06-2026,08:00,Nordhavn,Grss,131
+"Jun 05, 2026",08:00 AM,NORDHAVN,Birch,11
+05-06-2026,08.00,Nordhavn,Oak,39 grains/m3
+05-06-2026,08:00,Nordhavn,PINE, 26 
+"Jun 05, 2026",14:00,Nordhavn,GRASS,123
+05-06-2026,14:00,Nordhavn,Birch,8
+05-06-2026,14:00,nordhavn,Oak,49 ppm
+2026-06-05,14:00,  Nordhavn ,Pine,38
+05-06-2026,20:00,Nordhavn,Grass,91 ppm
+05/06/2026,20:00,Nordhavn,Birch,7 ppm
+05-06-2026,20:00,nordhavn,Oak,44
+05-06-2026,20:00,nordhavn,Pine,34
+05-06-2026,08:00,Sydhavn,Grass,104
+05-06-2026,08:00,SYDHAVN,Birch,10 grains/m3
+"Jun 05, 2026",08.00,Sydhavn,Oak,13 ppm
+05-06-2026,08:00,Sydhavn,Pine,43
+05-06-2026,14:00,Sydhavn,Grass,147
+05-06-2026,14.00,Sydhavn,Birch,10 grains/m3
+05-06-2026,14:00 PM,Sydhavn,Oak,38
+05-06-2026,14:00,Sydhavn,Pine, 11 
+05-06-2026,20:00,Sydhavn,Grass,26
+05-06-2026,20:00,sydhavn,Birch,9
+05-06-2026,20:00,sydhavn,oak,~38
+2026-06-05,20:00,Sydhavn,Pine,13
+2026-06-05,08:00,Ryparken,Grass,123
+"Jun 05, 2026",08:00,Ryparken,Birch,8
+"Jun 05, 2026",08:00 AM,Ryparken,Oak,~47
+05/06/2026,08:00,Ryparken,Pine,46
+05/06/2026,14:00,ryparken,Grass,71
+2026-06-05,14:00,Ryparken,Birch,14
+05-06-2026,14:00 PM,Ryparken,Oak,50
+05-06-2026,14:00,Ryparken,Pine,35 grains/m3
+05-06-2026,20:00,Ryparken,Grass,66
+05-06-2026,20:00,Ryparken,BIRCH,10
+05-06-2026,20:00,Ryparken,OAK,18 ppm
+05-06-2026,20:00,Ryparken,Pine,49
+06-06-2026,08.00,UNIVERSITY PARK,Grass,42
+06/06/2026,08:00,University Park,Birch,1
+"Jun 06, 2026",08:00,University Park,OAK,46
+06-06-2026 ,08:00,University Park,Pine,20
+06/06/2026,14:00 PM,University Park,Grass,134
+06/06/2026,14:00,Univ. Park,Birch,1
+06-06-2026,14:00,University Park,Oak,41 ppm
+2026-06-06,14.00,Univ. Park,PINE,30 grains/m3
+2026-06-06,20:00,UNIVERSITY PARK,Grass,92 grains/m3
+06-06-2026,20.00,UNIVERSITY PARK,birch,6
+2026-06-06,20:00,University Park,Oak,43
+06-06-2026,20:00 PM,University Park,Pine,25
+06-06-2026,08.00,islands brygge,Grss,~144
+06-06-2026,08:00,Islands brygge,Birch, 3 
+06-06-2026,08:00,  Islands brygge ,Oak,26
+06-06-2026,08:00,Islands brygge,Pine,29 grains/m3
+06-06-2026,14:00,ISLANDS BRYGGE,GRASS,~102
+06-06-2026,14:00,Islands brygge,Birch,~14
+06-06-2026,14:00,Island brygge,OAK,47
+"Jun 06, 2026",14:00,Island brygge,Pine, 10 
+06-06-2026,20:00,Islands brygge,Grass,139 ppm
+06-06-2026,20:00,Islands brygge,Burch,~15
+06/06/2026,20:00 PM,Islands brygge,OAK,11
+06-06-2026,20:00 PM,Islands brygge,Pine, 19 
+06-06-2026,08:00 AM,Nordhavn,Grass,28
+06/06/2026,08:00,  Nordhavn ,Birch,14
+06-06-2026,08:00 AM,nordhavn,Oak,12
+2026-06-06,08:00,Nordhavn,PINE,43
+06-06-2026,14:00,Nordhavn,Grass,128
+"Jun 06, 2026",14.00,Nordhavn,Birch,15
+06/06/2026,14:00 PM,  Nordhavn ,Oak,39 grains/m3
+06-06-2026,14:00,Nordhavn,pine,18
+06-06-2026,20:00,Nordhavn,GRASS,99
+06-06-2026,20:00,Nordhavn,Birch,7 ppm
+06/06/2026,20.00,NORDHAVN,Oak,48
+"Jun 06, 2026",20:00,  Nordhavn ,PINE,43
+"Jun 06, 2026",08:00,  Sydhavn ,Grass,57 grains/m3
+"Jun 06, 2026",08:00,Sydhavn,Birch,3
+06-06-2026,08.00,Sydhavn,Oak,41
+06-06-2026,08:00 AM,Sydhavn,PINE,32
+06-06-2026,14:00,  Sydhavn ,Grass,35
+06/06/2026,14:00,Sydhavn,Birch,11
+06-06-2026,14:00 PM,Sydhavn,Oak,40
+2026-06-06,14:00 PM,Sydhavn,Pine,24
+06/06/2026,20:00,Sydhavn,Grass, 30 
+2026-06-06,20:00,Sydhavn,Birch,13 grains/m3
+06-06-2026,20:00,Sydhavn,Oak,43
+06-06-2026,20:00,Sydhavn,Pine,13
+06-06-2026,08:00,Ryparken,grass,27 grains/m3
+06/06/2026,08:00,Ryparken,BIRCH,13
+2026-06-06,08:00 AM,Ryparken,Oak,29
+06-06-2026 ,08:00,Ryparken,Pine,11 grains/m3
+"Jun 06, 2026",14:00,Ryparken,Grass,97
+06-06-2026,14:00,ryparken,Birch,12
+06-06-2026,14:00 PM,ryparken,Oak, 16 
+2026-06-06,14:00 PM,ryparken,Pine,12
+06-06-2026,20:00,Ryparken,Grass,85
+06-06-2026,20:00,Ryparken,Birch,3
+06/06/2026,20:00,Ryparken,Oak,37
+06-06-2026 ,20.00,Ryparken,Pine,19
+07-06-2026,08:00,University Park,Grass,80
+07/06/2026,08:00,Univ. Park,Birch,7 grains/m3
+07-06-2026,08:00,UNIVERSITY PARK,Oak,23
+07/06/2026,08.00,University Park,Pine,42 ppm
+07-06-2026 ,14:00 PM,UNIVERSITY PARK,Grass,~98
+"Jun 07, 2026",14:00 PM,  University Park ,Birch,6 ppm
+07-06-2026,14:00,UNIVERSITY PARK,Oak,22
+"Jun 07, 2026",14:00,UNIVERSITY PARK,Pine,50 grains/m3
+07-06-2026,20:00,University Park,Grss,126
+07-06-2026,20:00,university park,Birch,5
+"Jun 07, 2026",20:00,University Park,oak,49
+2026-06-07,20:00,University Park,Pine,16
+07/06/2026,08:00,Islands brygge,grass,122
+07-06-2026,08:00,Islands brygge,birch,15
+07-06-2026,08:00,Islands brygge,oak,18
+07/06/2026,08:00,islands brygge,Pine,49 ppm
+07-06-2026,14:00,Islands brygge,Grass,144
+07-06-2026,14:00 PM,Island brygge,Birch,~9
+07-06-2026,14:00 PM,  Islands brygge ,Oak,43
+07-06-2026,14:00,  Islands brygge ,Pine,19
+07-06-2026,20:00 PM,Islands brygge,Grass,33 ppm
+07-06-2026,20:00,Island brygge,Birch,4
+07/06/2026,20:00 PM,Islands brygge,Oak,~14
+"Jun 07, 2026",20:00 PM,Islands brygge,Pine,27
+2026-06-07,08:00,  Nordhavn ,Grass,90
+07-06-2026,08.00,Nordhavn,Birch,13 ppm
+2026-06-07,08:00 AM,Nordhavn,Oak,11
+07-06-2026,08.00,Nordhavn,Pine,14
+07/06/2026,14:00 PM,Nordhavn,Grass,46
+07-06-2026,14:00,Nordhavn,birch,8
+07-06-2026,14:00 PM,Nordhavn,Oak,12
+07-06-2026 ,14:00,  Nordhavn ,Pine,17
+07-06-2026,20:00,Nordhavn,Grass,25
+07-06-2026,20:00,nordhavn,birch,15
+07-06-2026,20:00,Nordhavn,Oak,32
+07-06-2026,20:00,Nordhavn,Pine,15 ppm
+07-06-2026 ,08:00,Sydhavn,Grass,140
+07/06/2026,08:00,sydhavn,Birch,3
+07-06-2026,08:00,  Sydhavn ,Oak,26
+2026-06-07,08:00,Sydhavn,PINE,40
+07-06-2026,14:00 PM,Sydhavn,Grass,30 ppm
+07/06/2026,14:00,Sydhavn,Burch,6
+2026-06-07,14.00,SYDHAVN,Oak,46
+"Jun 07, 2026",14:00,Sydhavn,Pine,26
+07-06-2026 ,20.00,sydhavn,Grass,52
+07/06/2026,20.00,Sydhavn,BIRCH,9
+07-06-2026,20:00,Sydhavn,Oak,45 ppm
+07-06-2026 ,20:00,sydhavn,Pine,14
+07-06-2026,08:00,Ryparken,Grass, 115 
+"Jun 07, 2026",08:00 AM,Ryparken,Burch,13
+07-06-2026,08:00,ryparken,oak,16
+07-06-2026,08:00,Ryparken,Pine,40
+07/06/2026,14:00,Ryparken,Grass,127
+07-06-2026,14:00,Ryparken,Birch, 7 
+"Jun 07, 2026",14:00,RYPARKEN,Oak,~42
+07/06/2026,14:00,ryparken,Pine, 14 
+07-06-2026 ,20:00,Ryparken,Grass,103
+07-06-2026,20:00,Ryparken,Birch,6
+07-06-2026,20:00,Ryparken,oak,21
+07-06-2026,20:00 PM,  Ryparken ,Pine,21
+08-06-2026,08:00,University Park,Grss,103
+08-06-2026,08.00,University Park,Birch,13 grains/m3
+2026-06-08,08:00,Univ. Park,OAK,25
+08-06-2026,08:00,university park,pine,50 ppm
+08-06-2026,14:00,  University Park ,Grass,50
+08-06-2026,14:00,University Park,Birch,4 ppm
+08-06-2026,14:00,UNIVERSITY PARK,oak,30 grains/m3
+08-06-2026,14:00,University Park,Pine,37
+2026-06-08,20:00 PM,University Park,Grass,133
+08/06/2026,20:00 PM,University Park,Birch,0
+08-06-2026,20:00,Univ. Park,Oak,34
+08/06/2026,20.00,university park,Pine,43
+08-06-2026,08:00,Islands brygge,Grass,123
+08-06-2026,08:00,Islands brygge,Birch,6 ppm
+"Jun 08, 2026",08:00 AM,Islands brygge,Oak,44 grains/m3
+08-06-2026,08:00,Islands brygge,Pine,32
+08/06/2026,14:00 PM,Islands brygge,grass,118
+2026-06-08,14:00,Island brygge,BIRCH,5
+2026-06-08,14:00,Islands brygge,Oak,27
+08/06/2026,14:00,ISLANDS BRYGGE,Pine,22
+08-06-2026,20:00,ISLANDS BRYGGE,Grass,88
+08-06-2026,20:00,Islands brygge,birch,9
+2026-06-08,20:00,Islands brygge,Oak,42
+08-06-2026,20:00 PM,Islands brygge,Pine,29
+08-06-2026,08:00,  Nordhavn ,Grass,41
+08-06-2026,08:00,Nordhavn,birch,3
+08/06/2026,08:00,Nordhavn,oak,35
+"Jun 08, 2026",08:00,Nordhavn,PINE,20
+"Jun 08, 2026",14:00,NORDHAVN,GRASS,69
+08/06/2026,14:00 PM,Nordhavn,Birch,14
+"Jun 08, 2026",14:00,Nordhavn,Oak,29
+08-06-2026,14:00,nordhavn,Pine, 12 
+"Jun 08, 2026",20:00,Nordhavn,grass,104
+08-06-2026,20:00,NORDHAVN,Birch,4
+"Jun 08, 2026",20:00,Nordhavn,Oak,34
+08-06-2026,20:00,NORDHAVN,Pine,12
+08-06-2026,08:00,Sydhavn,Grass,61
+08-06-2026 ,08:00,SYDHAVN,Birch, 10 
+08-06-2026,08.00,  Sydhavn ,Oak,39
+"Jun 08, 2026",08:00,Sydhavn,Pine,11
+08/06/2026,14.00,SYDHAVN,Grass,53 ppm
+08/06/2026,14:00 PM,Sydhavn,Birch,0
+08/06/2026,14.00,Sydhavn,Oak,31 grains/m3
+08/06/2026,14:00,Sydhavn,Pine,30
+"Jun 08, 2026",20:00,Sydhavn,Grass,94
+08/06/2026,20:00,Sydhavn,Birch,2
+08/06/2026,20:00,Sydhavn,OAK,14
+08-06-2026,20:00,Sydhavn,Pine,38 grains/m3
+08-06-2026,08:00,Ryparken,Grass,111
+08-06-2026 ,08:00,Ryparken,Birch, 5 
+08-06-2026,08:00,  Ryparken ,oak,37 ppm
+08/06/2026,08:00 AM,Ryparken,Pine,14
+08/06/2026,14:00,Ryparken,Grass,131
+08-06-2026,14:00,Ryparken,Burch,5
+08-06-2026,14:00,RYPARKEN,Oak,23
+08-06-2026,14:00,Ryparken,Pine,42
+2026-06-08,20:00,Ryparken,Grass,66
+08-06-2026,20:00,Ryparken,Birch,1
+"Jun 08, 2026",20:00 PM,  Ryparken ,Oak,10
+08-06-2026,20:00,RYPARKEN,Pine, 23 
+2026-06-09,08.00,University Park,grass,139
+2026-06-09,08:00,University Park,Birch,2
+09-06-2026,08:00,Univ. Park,OAK,33
+09-06-2026,08:00,university park,Pine,42 grains/m3
+09-06-2026,14:00,  University Park ,GRASS,141
+09-06-2026,14:00,University Park,birch,14
+09-06-2026 ,14:00,university park,Oak,45
+09-06-2026,14:00 PM,University Park,pine,36 grains/m3
+2026-06-09,20:00,University Park,Grass, 45 
+09/06/2026,20:00,University Park,Birch,1 grains/m3
+09-06-2026,20:00,University Park,Oak,17
+"Jun 09, 2026",20:00,University Park,Pine,36
+09-06-2026 ,08:00,Islands brygge,GRASS,130
+09-06-2026,08:00 AM,Island brygge,Birch, 1 
+09-06-2026,08:00,Islands brygge,Oak,~28
+09-06-2026 ,08:00 AM,Island brygge,pine,31
+09-06-2026,14:00 PM,islands brygge,Grass,84
+09-06-2026,14:00,Islands brygge,Birch,10
+"Jun 09, 2026",14:00,ISLANDS BRYGGE,Oak,50 grains/m3
+09-06-2026,14:00,  Islands brygge ,Pine,35
+09-06-2026,20:00,islands brygge,Grass,143
+09-06-2026,20:00,ISLANDS BRYGGE,BIRCH,~15
+09-06-2026,20:00,Islands brygge,Oak,24
+09/06/2026,20.00,Islands brygge,Pine,50
+09-06-2026,08:00,Nordhavn,Grass,~28
+09-06-2026,08:00,Nordhavn,Birch,0
+09/06/2026,08:00,Nordhavn,oak,17
+09/06/2026,08:00,nordhavn,pine,23
+09-06-2026,14:00,Nordhavn,Grass,123
+2026-06-09,14:00,Nordhavn,BIRCH,14
+09/06/2026,14:00 PM,  Nordhavn ,Oak,23
+09-06-2026,14:00,Nordhavn,pine,10 grains/m3
+2026-06-09,20:00,  Nordhavn ,Grass,72
+09-06-2026,20:00,nordhavn,Birch,9 grains/m3
+09-06-2026,20:00 PM,Nordhavn,Oak,18 grains/m3
+09-06-2026,20:00 PM,Nordhavn,Pine,13 ppm
+09-06-2026,08:00,Sydhavn,Grass, 20 
+09-06-2026,08:00,Sydhavn,Birch,9
+09/06/2026,08.00,sydhavn,Oak,45
+2026-06-09,08:00 AM,sydhavn,Pine,16
+09-06-2026,14:00,Sydhavn,Grass,102
+09/06/2026,14.00,SYDHAVN,Birch,14 grains/m3
+09-06-2026,14:00,Sydhavn,Oak,28
+09-06-2026,14:00,Sydhavn,Pine,37
+09-06-2026,20:00,Sydhavn,Grass,43 grains/m3
+"Jun 09, 2026",20:00 PM,Sydhavn,birch,10
+09-06-2026,20:00,sydhavn,Oak,31 ppm
+09-06-2026,20:00,Sydhavn,Pine,24
+09-06-2026 ,08:00 AM,Ryparken,Grass,39
+09-06-2026,08:00,RYPARKEN,Birch,10
+2026-06-09,08:00,Ryparken,OAK,45
+09/06/2026,08:00 AM,Ryparken,Pine,15
+2026-06-09,14:00,Ryparken,GRASS,133 grains/m3
+09-06-2026,14:00,Ryparken,Birch, 7 
+09-06-2026,14:00,Ryparken,Oak,32
+09-06-2026,14:00,Ryparken,Pine,28
+09/06/2026,20:00 PM,Ryparken,GRASS,31
+09-06-2026 ,20:00,RYPARKEN,Birch,9
+09-06-2026 ,20:00,Ryparken,Oak,45
+09-06-2026 ,20:00,  Ryparken ,PINE,30
+10/06/2026,08:00,University Park,Grass,41
+10/06/2026,08:00,University Park,Birch,15
+10-06-2026,08:00,University Park,Oak,28
+"Jun 10, 2026",08:00,University Park,Pine,32
+10-06-2026,14:00,University Park,Grss,142
+10-06-2026,14:00,Univ. Park,Birch,0 grains/m3
+"Jun 10, 2026",14:00,University Park,OAK,14
+10-06-2026,14:00 PM,  University Park ,PINE,36 ppm
+"Jun 10, 2026",20:00,  University Park ,Grass,58
+10-06-2026,20:00,university park,Birch,10
+"Jun 10, 2026",20:00 PM,university park,Oak,38 ppm
+10-06-2026,20:00,Univ. Park,Pine,26
+10-06-2026,08:00 AM,Islands brygge,Grass,75
+10-06-2026,08:00,Islands brygge,birch,15
+10-06-2026,08:00 AM,Islands brygge,Oak,37
+10-06-2026,08:00,  Islands brygge ,Pine,43
+2026-06-10,14:00,Islands brygge,Grass,47 grains/m3
+10-06-2026,14:00 PM,Island brygge,Birch,~5
+10-06-2026,14:00,islands brygge,Oak,44
+"Jun 10, 2026",14:00 PM,Islands brygge,Pine,40
+"Jun 10, 2026",20:00 PM,islands brygge,Grass,~130
+10-06-2026,20:00,Islands brygge,Birch,4 grains/m3
+2026-06-10,20:00,Islands brygge,OAK,45
+10/06/2026,20:00,Islands brygge,Pine,42
+10-06-2026,08.00,NORDHAVN,GRASS,35 grains/m3
+"Jun 10, 2026",08.00,Nordhavn,Birch,3
+10/06/2026,08.00,nordhavn,oak,40
+"Jun 10, 2026",08:00 AM,Nordhavn,Pine,48
+10-06-2026,14.00,Nordhavn,Grass,~77
+10/06/2026,14:00 PM,Nordhavn,birch,14
+10/06/2026,14:00,Nordhavn,Oak,34 grains/m3
+10-06-2026,14:00,Nordhavn,PINE,27
+10-06-2026,20:00 PM,Nordhavn,GRASS,75
+10/06/2026,20:00,NORDHAVN,birch,5
+10-06-2026,20:00,  Nordhavn ,OAK,15
+10-06-2026,20:00,Nordhavn,pine,29
+10-06-2026,08.00,  Sydhavn ,Grass,127 grains/m3
+2026-06-10,08:00 AM,Sydhavn,Birch,6
+10-06-2026,08:00 AM,SYDHAVN,Oak,20
+10-06-2026,08:00,Sydhavn,Pine,50 ppm
+10-06-2026,14:00,Sydhavn,Grass,131
+10-06-2026,14:00 PM,  Sydhavn ,birch,3
+"Jun 10, 2026",14:00,Sydhavn,Oak,43 ppm
+10-06-2026,14:00,Sydhavn,Pine,28
+10/06/2026,20:00,Sydhavn,Grass,131 grains/m3
+10-06-2026,20:00,Sydhavn,Birch,5 ppm
+10-06-2026,20:00,Sydhavn,Oak,43
+10-06-2026,20:00,Sydhavn,Pine,20
+"Jun 10, 2026",08:00,ryparken,Grass,134
+10-06-2026,08:00,Ryparken,Birch,~6
+2026-06-10,08.00,Ryparken,Oak, 22 
+2026-06-10,08:00,Ryparken,Pine,24 grains/m3
+10-06-2026 ,14:00,ryparken,Grass,137
+10-06-2026,14:00,Ryparken,Birch,8
+10-06-2026,14:00,ryparken,Oak, 41 
+10-06-2026,14:00 PM,Ryparken,Pine,19
+"Jun 10, 2026",20:00,ryparken,Grass,133
+2026-06-10,20:00 PM,Ryparken,Birch,11
+"Jun 10, 2026",20:00,RYPARKEN,Oak,~18
+10/06/2026,20:00,ryparken,pine,26
+11-06-2026,08:00 AM,  University Park ,Grass,61
+11-06-2026,08:00 AM,University Park,Burch,9
+11/06/2026,08:00,University Park,Oak,28
+11-06-2026,08:00,University Park,Pine,44
+11-06-2026,14.00,Univ. Park,Grass,119
+2026-06-11,14:00,Univ. Park,Birch, 3 
+"Jun 11, 2026",14:00,Univ. Park,Oak,34
+2026-06-11,14:00 PM,University Park,Pine,49
+11/06/2026,20:00,University Park,Grss,36
+11-06-2026,20:00,University Park,Birch,6
+11-06-2026,20:00 PM,University Park,Oak,21
+11-06-2026,20:00 PM,UNIVERSITY PARK,Pine,42
+"Jun 11, 2026",08:00,islands brygge,Grass,59
+11-06-2026,08:00 AM,islands brygge,Birch,~1
+"Jun 11, 2026",08:00 AM,ISLANDS BRYGGE,Oak, 30 
+11-06-2026,08:00,  Islands brygge ,Pine,27
+11-06-2026,14:00,ISLANDS BRYGGE,Grass,~148
+11-06-2026,14.00,Islands brygge,Birch,13
+"Jun 11, 2026",14:00,Island brygge,Oak,39
+2026-06-11,14.00,Islands brygge,Pine,~12
+11-06-2026,20:00,Islands brygge,Grass,83
+11-06-2026,20:00,Islands brygge,Birch,13 grains/m3
+11/06/2026,20:00,Islands brygge,Oak,47 grains/m3
+11-06-2026,20:00,islands brygge,PINE,42
+11-06-2026,08:00,Nordhavn,Grass,78
+11/06/2026,08:00 AM,Nordhavn,Birch,10 ppm
+11-06-2026 ,08:00,Nordhavn,oak,22
+"Jun 11, 2026",08:00,  Nordhavn ,Pine,17
+11-06-2026,14:00,Nordhavn,grass,84
+11-06-2026,14:00,nordhavn,Birch,7
+"Jun 11, 2026",14:00 PM,nordhavn,Oak,42
+11-06-2026,14.00,Nordhavn,pine,26
+11-06-2026,20.00,Nordhavn,Grss,121
+11-06-2026,20:00 PM,NORDHAVN,birch,7
+11/06/2026,20:00,  Nordhavn ,Oak, 26 
+"Jun 11, 2026",20:00 PM,Nordhavn,Pine,23
+11-06-2026,08:00 AM,Sydhavn,Grass,21
+11-06-2026,08:00,Sydhavn,Birch,14
+11-06-2026,08:00,sydhavn,Oak,39 grains/m3
+11-06-2026,08:00,Sydhavn,Pine,19
+11-06-2026,14:00,Sydhavn,Grass,49
+11-06-2026,14:00,SYDHAVN,BIRCH,5
+11-06-2026,14.00,Sydhavn,OAK,36
+11-06-2026,14:00 PM,Sydhavn,PINE,36
+11-06-2026 ,20:00,Sydhavn,Grass,97
+11-06-2026,20:00,  Sydhavn ,birch,7
+"Jun 11, 2026",20:00,Sydhavn,Oak,32
+11-06-2026,20:00,Sydhavn,Pine,25
+11-06-2026,08:00,Ryparken,GRASS,78 ppm
+11-06-2026,08:00,Ryparken,Birch,1
+2026-06-11,08:00 AM,Ryparken,oak, 40 
+11-06-2026,08:00 AM,Ryparken,Pine,21
+11-06-2026,14:00,Ryparken,Grass,132
+11-06-2026,14:00,Ryparken,Burch,11 ppm
+"Jun 11, 2026",14:00,Ryparken,oak,50
+"Jun 11, 2026",14:00,Ryparken,Pine,43
+11-06-2026,20:00,ryparken,GRASS,113
+11-06-2026,20:00,Ryparken,Birch,2
+11-06-2026,20:00 PM,Ryparken,Oak,17
+"Jun 11, 2026",20:00,RYPARKEN,PINE,21
+2026-06-12,08:00,University Park,grass,75
+2026-06-12,08:00,University Park,Birch,13
+12/06/2026,08:00,University Park,Oak, 17 
+12-06-2026,08:00,University Park,Pine,32
+12-06-2026,14.00,Univ. Park,Grass,70
+12/06/2026,14:00,university park,Birch,12
+12-06-2026,14:00,University Park,Oak,23
+12-06-2026,14.00,University Park,Pine,40
+12-06-2026,20:00,University Park,Grass,126
+12-06-2026,20:00,university park,Birch,10 grains/m3
+"Jun 12, 2026",20:00,University Park,Oak,17
+"Jun 12, 2026",20:00,Univ. Park,Pine,23
+"Jun 12, 2026",08:00,Islands brygge,Grass, 34 
+12-06-2026,08:00,islands brygge,Birch,9 ppm
+"Jun 12, 2026",08:00 AM,Islands brygge,Oak, 25 
+12/06/2026,08.00,Islands brygge,Pine,13
+12-06-2026,14:00 PM,Islands brygge,Grass,111
+12-06-2026,14:00 PM,Islands brygge,Birch,14
+12/06/2026,14.00,Islands brygge,OAK,23
+2026-06-12,14:00,Islands brygge,Pine,33
+12/06/2026,20:00,Islands brygge,Grass,23
+"Jun 12, 2026",20:00 PM,  Islands brygge ,Birch,0
+12/06/2026,20:00,Islands brygge,Oak,23
+2026-06-12,20:00,Islands brygge,Pine,34
+12-06-2026,08:00,Nordhavn,Grass,73
+12/06/2026,08:00,Nordhavn,Birch,~13
+"Jun 12, 2026",08:00,Nordhavn,Oak,10
+12-06-2026,08:00 AM,Nordhavn,Pine,22
+12/06/2026,14:00,Nordhavn,grass,108 grains/m3
+"Jun 12, 2026",14:00,Nordhavn,Birch,8
+12-06-2026,14:00,Nordhavn,Oak,36
+12-06-2026,14:00,NORDHAVN,Pine,~32
+12-06-2026 ,20:00,Nordhavn,Grss,95
+12-06-2026,20.00,NORDHAVN,Birch, 2 
+2026-06-12,20:00,Nordhavn,oak,25
+2026-06-12,20:00,nordhavn,Pine,19 ppm
+"Jun 12, 2026",08:00,Sydhavn,Grass,58
+2026-06-12,08:00 AM,Sydhavn,Burch,10
+12/06/2026,08.00,Sydhavn,Oak,31
+12-06-2026,08.00,Sydhavn,pine,29
+12/06/2026,14:00 PM,sydhavn,Grass,87
+12-06-2026,14:00,Sydhavn,Birch,11
+12-06-2026,14:00,Sydhavn,Oak,31
+12-06-2026,14:00,Sydhavn,Pine,21
+"Jun 12, 2026",20:00,Sydhavn,Grass,85
+12-06-2026,20:00,SYDHAVN,Birch,1
+12-06-2026,20:00,sydhavn,Oak,42
+"Jun 12, 2026",20:00,Sydhavn,Pine, 23 
+"Jun 12, 2026",08:00,Ryparken,Grass,138
+12/06/2026,08.00,Ryparken,Birch,1
+12/06/2026,08:00,Ryparken,Oak,16
+2026-06-12,08:00,Ryparken,pine,34
+12-06-2026,14:00,Ryparken,Grass,91
+"Jun 12, 2026",14:00,ryparken,Birch,3
+"Jun 12, 2026",14:00,Ryparken,oak,12
+2026-06-12,14:00,  Ryparken ,Pine,38
+12-06-2026,20:00,Ryparken,Grass,47
+"Jun 12, 2026",20:00,RYPARKEN,Birch,8
+12-06-2026,20:00,Ryparken,OAK, 46 
+12-06-2026,20:00 PM,Ryparken,Pine,33
+13-06-2026,08:00,  University Park ,Grass,33
+2026-06-13,08:00,University Park,Birch,11
+"Jun 13, 2026",08:00,University Park,oak,12 grains/m3
+13-06-2026,08:00,University Park,pine,33
+13-06-2026,14:00 PM,  University Park ,Grass,117 ppm
+13-06-2026,14:00 PM,University Park,Birch,0
+2026-06-13,14:00 PM,University Park,Oak,23 ppm
+13-06-2026 ,14:00,University Park,pine,44
+"Jun 13, 2026",20:00,University Park,Grass,110
+2026-06-13,20:00,University Park,birch,6
+13-06-2026,20:00,University Park,Oak,35
+13-06-2026,20:00 PM,university park,PINE,21
+13-06-2026,08.00,Islands brygge,Grass,~77
+"Jun 13, 2026",08:00,Islands brygge,Birch,~2
+13-06-2026,08:00,Island brygge,Oak,10 ppm
+"Jun 13, 2026",08:00,ISLANDS BRYGGE,Pine,22
+13-06-2026,14:00,Islands brygge,Grass, 129 
+13-06-2026,14:00 PM,Islands brygge,Birch,11
+"Jun 13, 2026",14:00,ISLANDS BRYGGE,Oak, 32 
+13-06-2026 ,14:00,Island brygge,Pine,29
+"Jun 13, 2026",20:00,  Islands brygge ,Grass,45
+13-06-2026,20:00 PM,ISLANDS BRYGGE,Birch,5
+13-06-2026,20:00 PM,Islands brygge,Oak,48
+13-06-2026,20:00,Islands brygge,Pine,13
+"Jun 13, 2026",08:00,nordhavn,Grass,40 grains/m3
+"Jun 13, 2026",08.00,  Nordhavn ,Birch, 4 
+13/06/2026,08:00,Nordhavn,oak,~41
+2026-06-13,08:00 AM,Nordhavn,PINE,43 ppm
+13/06/2026,14:00 PM,Nordhavn,Grass,100 grains/m3
+"Jun 13, 2026",14:00 PM,NORDHAVN,BIRCH, 1 
+13/06/2026,14:00,Nordhavn,oak,10
+13-06-2026,14:00,nordhavn,Pine,10
+13-06-2026,20:00,  Nordhavn ,Grass,79 grains/m3
+"Jun 13, 2026",20:00,Nordhavn,Birch,5 ppm
+13-06-2026,20:00,Nordhavn,Oak,28
+2026-06-13,20.00,nordhavn,Pine,46
+13-06-2026,08:00,Sydhavn,GRASS,104
+2026-06-13,08.00,  Sydhavn ,Birch,0
+13-06-2026,08:00 AM,Sydhavn,OAK,23
+13-06-2026 ,08:00,Sydhavn,Pine,47
+13-06-2026,14:00,Sydhavn,grass,55
+13-06-2026,14:00 PM,Sydhavn,Birch,7
+13-06-2026,14:00 PM,Sydhavn,Oak,17
+13-06-2026,14:00,SYDHAVN,Pine,28
+13-06-2026,20:00,SYDHAVN,Grass,139
+13/06/2026,20:00,SYDHAVN,Birch,9
+"Jun 13, 2026",20:00,Sydhavn,Oak,17
+13-06-2026 ,20:00,Sydhavn,Pine,45
+13-06-2026,08:00 AM,RYPARKEN,Grass,139
+13-06-2026 ,08:00,Ryparken,birch,1
+2026-06-13,08:00,Ryparken,Oak, 12 
+13/06/2026,08:00,  Ryparken ,Pine,29
+13-06-2026 ,14:00 PM,Ryparken,Grass,40
+13-06-2026,14:00,Ryparken,Birch,13
+13-06-2026,14:00,Ryparken,Oak,21
+2026-06-13,14:00,ryparken,Pine,26
+2026-06-13,20.00,Ryparken,Grass,40 ppm
+13-06-2026,20.00,ryparken,Birch,6 ppm
+13-06-2026,20:00,ryparken,Oak,19 grains/m3
+13-06-2026,20:00,Ryparken,Pine,39
+14-06-2026,08:00,University Park,Grss,46
+14-06-2026,08:00,University Park,Birch,4
+14-06-2026,08:00,University Park,Oak,15
+2026-06-14,08:00,University Park,Pine,34
+14-06-2026 ,14:00,UNIVERSITY PARK,grass,37
+14-06-2026,14:00,Univ. Park,Birch,4
+14-06-2026,14:00,University Park,Oak,18
+"Jun 14, 2026",14:00 PM,University Park,Pine,42 ppm
+14-06-2026,20:00,University Park,Grass,78
+14/06/2026,20:00 PM,University Park,Birch,1
+14-06-2026,20:00,university park,OAK,14
+14-06-2026,20:00,UNIVERSITY PARK,Pine,22
+14-06-2026 ,08:00,Islands brygge,grass, 101 
+14-06-2026 ,08.00,Island brygge,Burch,8 ppm
+14/06/2026,08:00,Island brygge,Oak, 41 
+14-06-2026,08:00 AM,Island brygge,Pine,18
+14-06-2026,14:00,Islands brygge,GRASS,44
+"Jun 14, 2026",14:00 PM,Islands brygge,Birch,8 grains/m3
+14-06-2026,14:00 PM,Islands brygge,Oak,48 grains/m3
+"Jun 14, 2026",14:00,Islands brygge,Pine,~36
+14/06/2026,20:00 PM,Islands brygge,Grass,137
+14-06-2026,20:00 PM,Island brygge,Birch,15
+14/06/2026,20:00,Islands brygge,Oak,10
+2026-06-14,20:00,Islands brygge,Pine,44
+14/06/2026,08:00,NORDHAVN,Grass,145
+14-06-2026,08:00,Nordhavn,Birch,12 grains/m3
+14/06/2026,08:00,Nordhavn,oak,26
+14-06-2026,08:00,NORDHAVN,Pine,13
+14-06-2026,14:00,Nordhavn,grass,105
+"Jun 14, 2026",14:00 PM,Nordhavn,Birch,12
+14-06-2026,14:00 PM,nordhavn,Oak,32 ppm
+14-06-2026,14:00,Nordhavn,Pine, 19 
+14-06-2026,20:00,  Nordhavn ,GRASS,49
+"Jun 14, 2026",20:00 PM,nordhavn,Birch,10 grains/m3
+2026-06-14,20.00,Nordhavn,Oak,44
+14-06-2026,20:00,Nordhavn,Pine,22 ppm
+14/06/2026,08:00,Sydhavn,grass,~50
+14-06-2026,08:00,SYDHAVN,Birch,9
+14-06-2026,08:00,Sydhavn,oak,24 ppm
+14-06-2026,08:00,Sydhavn,Pine,12 grains/m3
+"Jun 14, 2026",14:00 PM,SYDHAVN,Grass,134 ppm
+14-06-2026,14:00,  Sydhavn ,Birch,10
+14-06-2026,14.00,Sydhavn,Oak,33
+2026-06-14,14:00,  Sydhavn ,Pine,26
+14/06/2026,20:00,Sydhavn,Grass,118
+2026-06-14,20:00,Sydhavn,Birch,5
+14-06-2026,20:00,Sydhavn,oak,20
+14-06-2026,20:00,  Sydhavn ,Pine,50 grains/m3
+14-06-2026,08:00,Ryparken,Grass,58 grains/m3
+14/06/2026,08:00,  Ryparken ,Birch,15
+"Jun 14, 2026",08:00,ryparken,OAK,26
+14-06-2026,08:00 AM,ryparken,Pine,37
+2026-06-14,14:00,Ryparken,Grass,128
+14-06-2026,14:00,Ryparken,Birch,4
+"Jun 14, 2026",14:00,Ryparken,Oak,22
+14-06-2026,14:00,Ryparken,Pine,17
+14-06-2026,20:00,Ryparken,Grass,132
+14-06-2026,20:00,RYPARKEN,Birch,~11
+2026-06-14,20:00,RYPARKEN,Oak,43 ppm
+14-06-2026 ,20:00,Ryparken,Pine,33
+15-06-2026,08:00,  University Park ,Grass,104
+2026-06-15,08:00,University Park,Burch,11
+"Jun 15, 2026",08:00 AM,UNIVERSITY PARK,Oak,35
+15-06-2026,08:00,University Park,Pine,11
+15/06/2026,14:00,University Park,Grass,133
+2026-06-15,14:00,UNIVERSITY PARK,Birch,3
+15-06-2026,14:00,University Park,Oak,32
+15/06/2026,14:00,University Park,Pine,14
+15-06-2026 ,20:00,University Park,Grass,58
+"Jun 15, 2026",20:00,University Park,Birch, 6 
+2026-06-15,20:00 PM,University Park,Oak,47
+15-06-2026,20:00,University Park,Pine,33
+15-06-2026,08:00,Islands brygge,Grass,58
+15-06-2026,08:00,Islands brygge,Birch,7
+15-06-2026,08:00,islands brygge,Oak,17
+15-06-2026,08:00 AM,Islands brygge,Pine,38
+2026-06-15,14:00,Islands brygge,Grass,123
+15-06-2026,14:00,Islands brygge,Birch,9
+15-06-2026,14:00,Islands brygge,OAK,49
+15-06-2026,14:00,Islands brygge,Pine,29
+15-06-2026,20:00,Islands brygge,Grass,86
+15-06-2026,20:00,Island brygge,birch,4
+15-06-2026,20:00,ISLANDS BRYGGE,Oak,49
+15-06-2026,20:00,Islands brygge,Pine,47
+15-06-2026,08:00,Nordhavn,Grass,54
+"Jun 15, 2026",08:00,Nordhavn,Burch,10
+15-06-2026,08:00,Nordhavn,oak,29 grains/m3
+15-06-2026,08:00,Nordhavn,Pine,50 grains/m3
+15-06-2026,14:00,Nordhavn,Grass,109
+15-06-2026,14:00 PM,Nordhavn,Birch,10 grains/m3
+15/06/2026,14:00,Nordhavn,Oak,35
+15-06-2026 ,14:00,Nordhavn,Pine,17
+"Jun 15, 2026",20:00,Nordhavn,Grass,88
+15/06/2026,20:00,Nordhavn,Birch,8
+"Jun 15, 2026",20:00,Nordhavn,Oak,20
+15-06-2026,20:00,Nordhavn,Pine,21
+15-06-2026,08:00,Sydhavn,Grass,31
+15-06-2026,08:00,  Sydhavn ,Birch,7
+2026-06-15,08:00,Sydhavn,oak,~44
+15-06-2026,08:00,Sydhavn,Pine,36 ppm
+15-06-2026,14.00,Sydhavn,grass,88
+15/06/2026,14:00,  Sydhavn ,Birch,0
+2026-06-15,14:00,Sydhavn,Oak, 23 
+15-06-2026,14:00,Sydhavn,Pine,32
+15-06-2026 ,20:00 PM,Sydhavn,grass,87 ppm
+15-06-2026,20:00,SYDHAVN,BIRCH,3
+"Jun 15, 2026",20.00,Sydhavn,Oak,11
+2026-06-15,20:00,  Sydhavn ,Pine,36
+15/06/2026,08:00 AM,Ryparken,grass,87
+15-06-2026,08:00,Ryparken,Birch,5
+15/06/2026,08:00,RYPARKEN,OAK,45
+"Jun 15, 2026",08:00,Ryparken,Pine,29 grains/m3
+15-06-2026 ,14:00,Ryparken,Grass,45
+15-06-2026,14.00,Ryparken,Birch,5 grains/m3
+15-06-2026,14:00,ryparken,Oak, 49 
+15-06-2026,14:00,RYPARKEN,pine, 28 
+2026-06-15,20:00 PM,  Ryparken ,Grass,36
+"Jun 15, 2026",20:00,Ryparken,BIRCH,5 grains/m3
+15-06-2026,20:00,  Ryparken ,Oak,11
+2026-06-15,20:00,Ryparken,pine,50
