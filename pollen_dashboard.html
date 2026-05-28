@@ -118,7 +118,6 @@
             }
         }
 
-        // Filter data and display results (Same as before)
         function analyzeData() {
             if (globalPollenData.length === 0) {
                 alert("Data is still loading or failed to load.");
@@ -133,12 +132,28 @@
 
             const selectedLocation = document.getElementById('locationSelect').value;
             const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = `<h2>Analysis for ${selectedLocation}</h2>`;
+            
+            // --- NEW DATE CODE ---
+            // Get today's date and format it to match the CSV (DD-MM-YYYY)
+            const today = new Date();
+            const formattedToday = ("0" + today.getDate()).slice(-2) + "-" + 
+                                   ("0" + (today.getMonth() + 1)).slice(-2) + "-" + 
+                                   today.getFullYear();
 
+            resultsDiv.innerHTML = `<h2>Analysis for ${selectedLocation} on ${formattedToday}</h2>`;
+
+            // Filter data for the specific location, selected allergies, AND today's date
             const relevantData = globalPollenData.filter(row => 
                 row.location === selectedLocation && 
-                selectedAllergies.includes(row.type)
+                selectedAllergies.includes(row.type) &&
+                row.date === formattedToday
             );
+
+            // Check if we actually found data for today
+            if (relevantData.length === 0) {
+                resultsDiv.innerHTML += `<p style="color: #e74c3c;">No pollen data found for today (${formattedToday}). Try checking the CSV date formats!</p>`;
+                return; // Stop running the rest of the code
+            }
 
             const averages = {};
             selectedAllergies.forEach(allergy => {
