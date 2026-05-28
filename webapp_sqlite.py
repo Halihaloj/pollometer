@@ -47,7 +47,6 @@ if selected_pollen != "Alle pollentyper":
 filtered_df = conn.query(base_query, params=query_params, ttl="0")
 
 # Display metric boxes at top of page
-<<<<<<< HEAD
 loc_col1, loc_col2 = st.columns(2)
 with loc_col1:
     st.metric(label="Observationer", value=len(filtered_df))
