@@ -91,7 +91,7 @@ def clean_row(row):
     loc = raw_loc.strip()
     if re.search(r"island[s]?\s?brygge", loc, re.IGNORECASE):
         loc = "Islands brygge"
-    elif re.search(r"univ\.?\s*park", loc, re.IGNORECASE):
+    elif re.search(r"univ(?:ersitet)?s?\.?\s*park(?:en)?", loc, re.IGNORECASE):
         loc = "University Park"
     elif re.search(r"nordhavn", loc, re.IGNORECASE):
         loc = "Nordhavn"
