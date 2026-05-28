@@ -28,7 +28,7 @@
         <h1>Copenhagen Pollen Tracker</h1>
         <p>Check the pollen severity based on your allergies.</p>
         
-        <div id="status">⏳ Loading pollen data...</div>
+        <div id="status"> Loading pollen data...</div>
 
         <h3>1. Select Your Allergies:</h3>
         <div class="checkbox-group">
@@ -55,13 +55,12 @@
     <script>
         let globalPollenData = [];
 
-        // Automatically fetch the CSV file when the page loads
+        // Fetches the file when loading the site
         window.onload = function() {
-            // Because we are running a local server, we can just ask for the file by name
             fetch('copenhagen_pollen_data_regex_v2.csv')
                 .then(response => {
                     if (!response.ok) {
-                        throw new Error("Could not find the CSV file. Is it in the same folder?");
+                        throw new Error("Could not find the CSV file.");
                     }
                     return response.text();
                 })
@@ -71,12 +70,12 @@
                     document.getElementById('status').style.color = "#27ae60";
                 })
                 .catch(error => {
-                    document.getElementById('status').innerHTML = "❌ <strong>Error:</strong> " + error.message;
+                    document.getElementById('status').innerHTML = " <strong>Error:</strong> " + error.message;
                     document.getElementById('status').style.color = "#c0392b";
                 });
         };
 
-        // Parse and Clean the Data using Regex (Same as before)
+        // Parse and Clean the Data using Regex
         function processCSV(csvText) {
             const rows = csvText.split('\n');
             globalPollenData = [];
