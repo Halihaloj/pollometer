@@ -3,7 +3,7 @@ import pandas as pd
 
 # Setup web page layout
 st.set_page_config(page_title="pollometeret", page_icon="🌱", layout="wide")
-st.title("🌱 Pollometeret - Overblik over de Københavnske pollendata")
+st.title("🌱 Pollometeret - Københavns samlede pollendata")
 
 # Connection to SQLite db
 conn = st.connection("sqlite", type="sql", url="sqlite:///pollen_data.db")
